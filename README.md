@@ -55,6 +55,8 @@ While portfolio projects demonstrate coding capability, certifications validate 
 * **Python Institute (PCEP / PCAP / PCPP):** Standardized certifications testing Python syntax, object-oriented programming, data structures, and advanced API interaction.
 * **Oracle Certified Professional (OCP) Java SE:** Deep technical validation of Java core language features, concurrency, streams, and module systems.
 
+| Certification | Level | Provider | Focus Areas & Prerequisites |
+| :--- | :--- | :--- | :--- |
 | **Python Institute PCAP-02** | Associate | Python Institute | Associated with the legacy PCAP-31-02 exam track: covers intermediate Python concepts including OOP, modules, packages, exceptions, strings, and file I/O operations. PCEP recommended. |
 | **Python Institute PCAP-03** | Associate | Python Institute | Associated with the updated PCAP-31-03 exam track: expands on core object-oriented programming, standard library modules (os, sys, datetime), generators, iterators, and advanced file handling. PCEP recommended. |
 
