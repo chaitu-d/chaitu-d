@@ -22,6 +22,7 @@ Networking forms the underlying infrastructure for cloud computing, cybersecurit
 | Certification | Level | Provider | Focus Areas & Prerequisites |
 | :--- | :--- | :--- | :--- |
 | **CompTIA Network+** | Entry | CompTIA | Vendor-neutral fundamentals: OSI model, TCP/IP, IP addressing, basic troubleshooting, wireless networking. No prerequisites. |
+| **CompTIA Security+** | Entry / Intermediate | CompTIA | Vendor-neutral core security: risk management, threat identification, cryptography, network security, incident response, and governance. No formal prerequisites, but Network+ knowledge is recommended. |
 | **Cisco CCNA (200-301)** | Associate | Cisco | Enterprise networking standard: IP connectivity, network access, IP services, security fundamentals, and basic automation/programmability. |
 | **Cisco CCNP Enterprise** | Professional | Cisco | Advanced routing and switching (ENCOR 350-401) plus a concentration exam (e.g., ENARSI for advanced routing or ENAUTO for automation). |
 | **Juniper JNCIS-ENT** | Intermediate | Juniper Networks | Enterprise routing and switching specifically within the Junos OS environment. |
@@ -53,6 +54,9 @@ While portfolio projects demonstrate coding capability, certifications validate 
 #### A. Programming Languages
 * **Python Institute (PCEP / PCAP / PCPP):** Standardized certifications testing Python syntax, object-oriented programming, data structures, and advanced API interaction.
 * **Oracle Certified Professional (OCP) Java SE:** Deep technical validation of Java core language features, concurrency, streams, and module systems.
+
+| **Python Institute PCAP-02** | Associate | Python Institute | Associated with the legacy PCAP-31-02 exam track: covers intermediate Python concepts including OOP, modules, packages, exceptions, strings, and file I/O operations. PCEP recommended. |
+| **Python Institute PCAP-03** | Associate | Python Institute | Associated with the updated PCAP-31-03 exam track: expands on core object-oriented programming, standard library modules (os, sys, datetime), generators, iterators, and advanced file handling. PCEP recommended. |
 
 #### B. Cloud & Container Orchestration
 * **AWS Certified Developer – Associate:** Validates expertise in developing, deploying, and debugging cloud-based applications using AWS services (Lambda, DynamoDB, S3, SQS/SNS).
