@@ -1,6 +1,6 @@
 # Hi, I'm Chaitu 👋
 
-Welcome to my profile! I am a developer and researcher passionate about software development, artificial intelligence, and sharing knowledge with the community. 
+Welcome to my profile! I am a developer, cybersecurity geek and researcher passionate IEEE, JISEM and passionate about software development, artificial intelligence, curious about happenings in **AI world** GPUs to Quatum computing and **importantly** sharing knowledge with the community. 
 
 ### 🚀 What You'll Find On My GitHub
 * **Code & AI:** Repositories covering general programming, Python AI, and vibe coding projects.
