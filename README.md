@@ -1,11 +1,12 @@
 # Hi, I'm Chaitu 👋
 
-Welcome to my profile! I am a developer, cybersecurity geek and researcher passionate IEEE, JISEM and passionate about software development, artificial intelligence, curious about happenings in **AI world** GPUs to Quatum computing and **importantly** sharing knowledge with the community. 
+Welcome to my profile! I am a developer, cybersecurity geek , networking enthusiast and researcher (IEEE publications, JISEM) and passionate about software development, artificial intelligence, curious about **RightNow** happenings in **AI world** from GPUs to Quatum computing and mostly **importantly** sharing knowledge with the community. 
 
 ### 🚀 What You'll Find On My GitHub
 * **Code & AI:** Repositories covering general programming, Python AI, and vibe coding projects.
 * **IEEE Research:** Hands-on guides, templates, and workflows on how to write, structure, and conclude IEEE research papers.
-* **Leadership & Community:** Projects, documentation, and resources from my journey as an Eagle Scout.
+* **Certifications :** : Python, CompTIA, NVIDIA-GEN-L, Cisco 
+* **Leadership & Community:** Projects, documentation, and resources from my journey as an Eagle Scout - BSA .
 
 ---
 
